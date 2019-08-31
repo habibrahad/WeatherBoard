@@ -1,0 +1,7 @@
+<resources>
+
+	<!--    Here, I'm Using a demo API. Please, Use your own API to run this Application. to get free API, please visit OpenWeatherMap.org and create an account. -->
+
+	
+    <string name="open_weather_map_api" templateMergeStrategy="preserve" translatable="false">aa6c5b4ab4694b6aa4ca512f804e3179</string>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ওয়েদার</string>
+    <string name="wind_label">বায়ু প্রবাহঃ</string>
+    <string name="store_label">স্টোর</string>
+    <string name="search_label">সার্চ</string>
+    <string name="search_for_a_city_label">শহর/সিটি সার্চ করুন</string>
+    <string name="retry_label">পুনরায় চেষ্টা করুন</string>
+    <string name="openweathermap_api_key_label">ওপেনওয়েদার এপিআই কি</string>
+    <string name="ok_label">ওকে</string>
+    <string name="no_internet_message">অনুগ্রহ করে ইন্টারনেট কানেকশন চেক করুন</string>
+    <string name="no_city_found_message">এই নামে কোনো শহর/সিটি পাওয়া যাচ্ছে না</string>
+    <string name="night_mode_label">নাইট মুড</string>
+    <string name="next_4_days_hourly">পরবর্তি ৪ দিনের আবহাওয়ার পরিবর্তন (প্রো)</string>
+    <string name="next_15_days_label">   পরবর্তি ১৫ দিন (প্রো) </string>
+    <string name="network_exception_message">নেটওয়ার্ক কানেকশন পেতে সমসয়া</string>
+    <string name="license_title">লাইসেন্স</string>
+    <string name="invalid_api_key_message">এপিআই কি টি ইনভ্যালিড। অনুগ্রহ করে পরবর্তি আপডেটের জন্য অপেক্ষা করুন</string>
+    <string name="humidity_label">আদ্রতাঃ</string>
+    <string name="get_api_key_label">এপিআই কি নিন</string>
+    <string name="developer_info_title">ডেভেলপারের পরিচয়</string>
+    <string name="current_label">বর্তমান</string>
+    <string name="cancel_label">বাতিল</string>
+    <string name="application_info_title">অ্যাপ্লিকেশন ইনফো</string>
+    <string name="api_key_label">এপিআই কি</string>
+    <string name="api_key_description">এই অ্যাপ্লিকেশন টি চালানোর জন্য একটি এপিআই কি এর প্রয়োজন। এটি বিশেষ ক্ষেত্রে সম্পুর্ন ফ্রি। অনুগ্রহ করে নিচের দেওয়া লিংক টি ক্লিক করে একটি একাউন্ট তৈরী করে নিন। অতঃপর আপনি এপিআই কি ব্যবহার করতে পারবেন।</string>
+    <string name="application_info_text" translatable="false"><![CDATA[             <p>             <b>ওয়েদার অ্যাপ্লিকেশন</b>             <br/>             	ভার্সন: %1$s             <br/>             এই অ্যাপ্লিকেশন টি শিক্ষামূলক কাজের জন্য  সম্পুর্ন উন্মুক্ত।  <br/> গিটহাব থেকে সোর্স কোড পেতে <a href="https://github.com/habibrahad/pretty_weather">এখানে ক্লিক </a> করুন।</p>         ]]></string>
+    <string name="bangla_lebel">বাংলা</string>
+    <string name="design_api_text" translatable="false"><![CDATA[<a href="https://www.uplabs.com/posts/weather-app-freebie">ওয়েদার এপ ফ্রিবি -</a> লায়উট তৈরিতে ব্যবহৃত হয়েছে। <br/> <a href="http://openweathermap.org/">ওপেন ওয়েদার ম্যাপ - </a> ফ্রিতে আপিআই ব্যবহার করা হয়েছে। </p> <br/><a href="https://www.facebook.com/fahimsa3">ফাহিম শারিয়ার - </a> লেয়াউট এডিটর। <br/> ]]></string>
+
+
+
+    <string name="design_api_title" translatable="false">ডিজাইন এবং এপিআই</string>
+    <string name="developer_info_text">" <![CDATA[<p>অ্যাপ টি ডেভেলপ করেছে হাবীব রাহাদ, বর্তমানে আইআইইউসি তে কম্পিউটার সাইন্স এন্ড ইঞ্জিনিয়ারিং নিয়ে পড়ালেখা করছে। যোগাযোগ করতে <a href="https://www.facebook.com/habib.reza.karim">ফেইসবুক</a> অথবা <a href="mailto:habib.reza.karim@gmail.com">ইমেইল</a> করতে পারেন।</p> ]]>     "</string>
+    <string name="libraries_title" translatable="false">লাইব্রেরী এবং রিসোর্স</string>
+    <string name="libraries_text" translatable="false">"        <![CDATA[            <p>              <a href="https://github.com/google/material-design-icons">মেটেরিয়াল ডিজাইন আইকন - </a>  ক্রিয়েটিভ কমন এট্রিবিউশন ৪.০ ইন্টারন্যাশনাল লাইসেন্স।          </p>          ]]> "</string>
+    <string name="license_text">" <![CDATA[<p>কপিরাইট © ২০১৯ হাবীব রাহাদ </p><p> লাইসেন্সটি এপাচি লাইসেন্সের আয়তাভুক্ত, ভার্সন ২.০ ( The "License")</p><b/><p>মোট কথা, এটারে পিডি কাপ করি ফেলেন, টেনশন নাই। </p>             <p>প্রয়োজনে নিচে দেওয়া লিংক হতে লাইসেন্সটি কপি করে নিতে পারেন। </p>             <p>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.apache.org/licenses/LICENSE-2.0">www.apache.org/LICENSE-2.0</a></p>  ]]></string>
+    <string name="wind_unit_label">%.0f কি.মি/ঘন্টা</string>
+    <string name="english_label">ইংলিশ</string>
+    <string name="pro_info_text_note">যদি আপনি সম্পূর্ণ ফিচারের অ্যাপ পেতে চান, অনুগ্রহ করে গিটহাব থেকে রিপোসিটোরটি ডাউনলোড করে প্রয়োজন সাপেক্ষে তা এডিট করে আমাকে মেইল করুন অথবা ফেইসবুকে যোগাযোগ করুন। পরিবর্তে আমি সম্পূর্ণ ফিচারযুক্ত একটি এপিকে ফাইল আপনাকে ফেরত দিব।</string>
+     <string name="pro_info">এই অ্যাপ্লিকেশন টি ওপেন ওয়েদার ম্যাপের ফ্রি এপিআই দ্বারা পরিচালিত। যার কারণে অ্যাপটিতে সকল ফিচার যথাযথভাবে প্রদর্শন করা সম্ভব হচ্ছে না।</string>
+
+
+</resources>

@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="store_label">Store</string>
+    <string name="license_title">License</string>
+    <string name="libraries_title">Libraries and Resources</string>
+    <string name="developer_info_title">Developer Info</string>
+    <string name="design_api_title">Design and API</string>
+    <string name="application_info_title">Application Info</string>
+    <string name="application_info_text">
+        <![CDATA[
+            <p>
+            <b>Weather application</b>
+            <br/>
+            Version: %1$s
+            <br/>
+            This application is open source at GitHub. <br/><a href="https://github.com/habibrahad/pretty_weather">Click Here</a> to get the Source Code.</p>
+        ]]>
+    </string>
+
+    <string name="design_api_text">"<![CDATA[<a href="https://www.uplabs.com/posts/weather-app-freebie">Weather App Freebie</a> Edited Layout.<br/><a href="http://openweathermap.org/">OpenWeatherMap</a> Used Free Weather API. <br/><a href="https://www.facebook.com/fahimsa3">Fahim Sharier- </a> Layout Editor. <br/>]]>"</string>
+    <string name="license_text">
+        <![CDATA[
+            <p>Copyright © 2019 Habib Rahad</p>
+            <p>Licensed under the Apache License, Version 2.0 (the "License")</p>
+
+            <p>One can use and modify if it is necessary.</p>
+            You may obtain a copy of the License at</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.apache.org/licenses/LICENSE-2.0">http://www.apache.org/licenses/LICENSE-2.0</a></p>
+
+        ]]>
+    </string>
+
+
+    <string name="libraries_text">"         <![CDATA[            <p>              <a href="https://github.com/google/material-design-icons">Material design icons</a> Creative Common Attribution 4.0 International License            </p>          ]]> "</string>
+    <string name="current_label">Current</string>
+    <string name="humidity_label">Humidity:</string>
+    <string name="wind_label">Wind:</string>
+    <string name="next_4_days_hourly">Next 4 Days Prediction (pro)</string>
+    <string name="next_15_days_label">Next 15 Days (pro)</string>
+    <string name="search_for_a_city_label">Search for a city</string>
+    <string name="zero_label" translatable="false">0%d</string>
+    <string name="wind_unit_label">%.0f km/hr</string>
+    <string name="openweathermap_api_key_label">OpenWeatherMap API Key</string>
+    <string name="api_key_description">For using application you should provide API key. It is free. Please open link below and create account. After that you can get API key.</string>
+    <string name="get_api_key_label">Get API Key</string>
+    <string name="api_key_label">API Key</string>
+    <string name="english_label">English</string>
+    <string name="search_label">Search</string>
+    <string name="no_internet_message">Please check internet connection</string>
+    <string name="no_city_found_message">No city found with this name</string>
+    <string name="invalid_api_key_message">API key is invalid. Wait for next update</string>
+    <string name="network_exception_message">Network connection problem</string>
+    <string name="retry_label">Retry</string>
+    <string name="ok_label">OK</string>
+    <string name="night_mode_label">Night Mode</string>
+   <string name="bangla_lebel">বাংলা</string>
+    <string name="developer_info_text">"  <![CDATA[             <p>The Application is Developed by Habib Rahad, studying Computer Science & Engineering In IIUC. You can contact with <a href="https://www.facebook.com/habib.reza.karim">Facebook</a> or via <a href="mailto:habib.reza.karim@gmail.com">Mail</a>.</p>         ]]>     "</string>
+    <string name="pro_info"><p>This Application is based on Free Open Weather Map API. For this reason, The full features can not be Displayed properly.</p>
+    </string>
+
+    <string name="pro_info_text_note">"<![CDATA[If you are Interested to make it full featured, please edit the Repository from Git by yourself if it is necessary and send me via Mail or knock me on Facebook. In return, I will give you an APK file with your desired features. ]]>     "</string>
+</resources>

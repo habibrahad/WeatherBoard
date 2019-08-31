@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#dddddd</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="light_red">#FF8686</color>
+    <color name="overlay_dark_50">#40000000</color>
+    <color name="material_blue">#6452f0</color>
+    <color name="grey_10">#e6e6e6</color>
+    <color name="green_success">#155724</color>
+    <color name="light_green">#86FF98</color>
+    <color name="colorPrimaryNight">#263238</color>
+    <color name="colorPrimaryDarkNight">#141d26</color>
+    <color name="halka_beguni">#5649BE</color>
+    <color name="light_beguni1">#DECAF1</color>
+    <color name="light_beguni2">#CFCAF1</color>
+    <color name="arekta_beguni">#C7A6E7</color>
+</resources>
